@@ -1,0 +1,48 @@
+.contain{
+ width:400px;
+ margin: 50px auto;
+ border-radius: 5px;
+ text-align: center;
+ background: white;
+ color: rgb(0, 150, 255);
+ padding-bottom: 50px;
+ padding-top:20px;
+}
+
+#random{
+  padding-bottom: 20px;
+
+}
+
+.search{
+   width :900px ;
+   margin: 30px auto;
+   border-radius: 5px;
+   text-align: left;
+   color: rgb(0, 150, 255);
+   background: white;
+   padding-top: 20px;
+   padding-left:20px;
+   padding-bottom: 20px;
+
+}
+
+.clicked{
+  color:rgb(0, 85, 255);
+
+}
+button{
+  color: rgb(0, 150, 255) !important;
+  margin-top: -6px !important;
+}
+
+body{
+  background: rgb(0, 150, 255) !important;
+  font-family: oswald !important;
+
+}
+
+input{
+  margin-right: 20px !important;
+  height:31px;
+}
